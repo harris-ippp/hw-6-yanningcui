@@ -1,2 +1,3 @@
-here's my website link: (just in case!)
+here's my website links: (just in case!)
 http://htmlpreview.github.io/?https://github.com/harris-ippp/hw-6-yanningcui/blob/master/yanningwebsite.html
+http://home.uchicago.edu/~yanningcui/yanningwebsite.html
